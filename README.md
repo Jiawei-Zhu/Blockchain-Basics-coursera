@@ -1,4 +1,4 @@
 # Blockchain-Basics-coursera
-A brief learning notes (后知后觉要做笔记:-(
+A brief learning notes :-(
 
 And this is just the beginning...
